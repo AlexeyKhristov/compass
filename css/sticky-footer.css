@@ -1,0 +1,24 @@
+/* line 10, ../../../lib/gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/layout/_sticky-footer.scss */
+html, body {
+  height: 100%;
+}
+
+/* line 12, ../../../lib/gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/layout/_sticky-footer.scss */
+#root {
+  clear: both;
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  margin-bottom: -54px;
+}
+/* line 18, ../../../lib/gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/layout/_sticky-footer.scss */
+#root #root_footer {
+  height: 54px;
+}
+
+/* line 20, ../../../lib/gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/layout/_sticky-footer.scss */
+#footer {
+  clear: both;
+  position: relative;
+  height: 54px;
+}
