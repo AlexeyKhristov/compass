@@ -1,0 +1,24 @@
+/* line 66, icons/*.png */
+.icons-sprite, .icons-a, .icons-b, .icons-i, .icons-u {
+  background: url('/img/icons-s9b0b731a3b.png') no-repeat;
+}
+
+/* line 60, ../../../../../opt/vagrant_ruby/lib/ruby/gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.icons-a {
+  background-position: 0 0;
+}
+
+/* line 60, ../../../../../opt/vagrant_ruby/lib/ruby/gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.icons-b {
+  background-position: 0 -35px;
+}
+
+/* line 60, ../../../../../opt/vagrant_ruby/lib/ruby/gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.icons-i {
+  background-position: 0 -105px;
+}
+
+/* line 60, ../../../../../opt/vagrant_ruby/lib/ruby/gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.icons-u {
+  background-position: 0 -70px;
+}

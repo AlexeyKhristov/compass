@@ -1,0 +1,21 @@
+/* line 66, icons/*.png */
+.icons-sprite, .buttons .new, .buttons .edit, .buttons .save, .buttons .delete {
+  background: url('/img/icons-s9b0b731a3b.png') no-repeat;
+}
+
+/* line 4, ../scss/separate-sprites.scss */
+.buttons .new {
+  background-position: 0 0;
+}
+/* line 5, ../scss/separate-sprites.scss */
+.buttons .edit {
+  background-position: 0 -35px;
+}
+/* line 6, ../scss/separate-sprites.scss */
+.buttons .save {
+  background-position: 0 -105px;
+}
+/* line 7, ../scss/separate-sprites.scss */
+.buttons .delete {
+  background-position: 0 -70px;
+}

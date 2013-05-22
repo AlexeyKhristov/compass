@@ -1,0 +1,10 @@
+@import "icons/*.png";
+
+$box-padding: 5;
+$height: icons-sprite-height(i);
+$width: icons-sprite-width(i);
+
+.somediv {
+  height:$height + $box-padding;
+  width:$width + $box-padding;
+}

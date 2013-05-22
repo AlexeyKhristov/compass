@@ -1,0 +1,8 @@
+@import "icons/*.png";
+
+.buttons {
+  .new    { @include icons-sprite(a); }
+  .edit   { @include icons-sprite(b); }
+  .save   { @include icons-sprite(i); }
+  .delete { @include icons-sprite(u); }
+}

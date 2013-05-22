@@ -1,0 +1,10 @@
+/* line 66, icons/*.png */
+.icons-sprite {
+  background: url('/img/icons-s9b0b731a3b.png') no-repeat;
+}
+
+/* line 7, ../scss/width-sprites.scss */
+.somediv {
+  height: 40px;
+  width: 49px;
+}
