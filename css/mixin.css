@@ -1,0 +1,13 @@
+/* line 7, ../scss/mixin.scss */
+#header {
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+}
+
+/* line 11, ../scss/mixin.scss */
+#footer {
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+}
